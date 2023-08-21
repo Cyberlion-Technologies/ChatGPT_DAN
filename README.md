@@ -316,3 +316,18 @@ Preview:
 ## Example after entering the "ChatGPT DevMode + Ranti PROMPT"
 ![image](https://user-images.githubusercontent.com/47383452/225237856-1be52b9a-3268-43de-b6f5-f77de6ea015d.png)
 
+## Connect with Us
+Stay updated with the latest news and developments by connecting with us on social media:
+
+[![Telegram](https://img.shields.io/badge/Telegram-%40smartesthackers-blue?logo=telegram&style=social&logoWidth=60)](https://t.me/smartesthackers)
+[![Twitter](https://img.shields.io/badge/Twitter-%40Cyberlion_Tech-blue?logo=twitter&style=social&logoWidth=60)](https://twitter.com/Cyberlion_Tech)
+
+
+[![Facebook](https://img.shields.io/badge/Facebook-Cyberlion%20Technologies-blue?logo=facebook&style=social&logoWidth=40)](https://www.facebook.com/cyberliontechnologiesfb/)
+[![Instagram](https://img.shields.io/badge/Instagram-Cyberlion%20Technologies-purple?logo=instagram&style=social&logoWidth=40)](https://www.instagram.com/cyberliontechnologies/)
+
+## Support Us
+If you appreciate our work and would like to support us, consider making a donation:
+
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-green?logo=paypal)](https://www.paypal.com/donate?business=KBUV9X67U6XYW)
+[![Buy Us Some Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-orange?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/murutubrian)
